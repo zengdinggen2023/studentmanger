@@ -7,5 +7,7 @@ public class HelloGitContoller {
         System.out.println("hello,git!!!");
         System.out.println("hello,git!!!");
         System.out.println("你好！Git!!");
+        System.out.println("你好！Git!!");
+        System.out.println("你好！Git!!");
     }
 }
