@@ -13,5 +13,6 @@ public class HelloGitContoller {
         int b = 20;
         int c = a +b;
         System.out.println(c);
+        System.out.println("hot-fix分支合并....");
     }
 }
