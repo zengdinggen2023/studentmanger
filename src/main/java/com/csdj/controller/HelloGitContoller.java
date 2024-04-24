@@ -12,9 +12,8 @@ public class HelloGitContoller {
         int  a = 10;
         int b = 20;
         int c = a +b;
-        System.out.println(c);
-        System.out.println("master分支...");
-        System.out.println("master分支合并冲突演示...");
-        System.out.println("hot-fix分支合并....");
+        for(int i = 1 ; i <= 100 ; i++){
+            System.out.println(i);
+        }
     }
 }
