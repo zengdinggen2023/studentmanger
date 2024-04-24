@@ -13,5 +13,7 @@ public class HelloGitContoller {
         int b = 20;
         int c = a +b;
         System.out.println(c);
+        System.out.println("master分支...");
+        System.out.println("master分支合并冲突演示...");
     }
 }
