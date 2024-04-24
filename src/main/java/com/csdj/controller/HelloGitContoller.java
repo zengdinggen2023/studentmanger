@@ -15,5 +15,6 @@ public class HelloGitContoller {
         for(int i = 1 ; i <= 100 ; i++){
             System.out.println(i);
         }
+        System.out.println("程序结束操作！");
     }
 }
